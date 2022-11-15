@@ -1,8 +1,6 @@
 ### Hi there 👋
-<--
-**JoshOlam/JoshOlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-## **I am Josh, an AWS certified cloud practitioner and a Machine Learning Engineer.**
+
+## **I am Josh, an AWS Certified Cloud Practitioner and a Machine Learning Engineer.**
 
 Here are some ideas to get you started:
 
