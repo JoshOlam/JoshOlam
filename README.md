@@ -10,6 +10,7 @@ I work across the full AI delivery path: problem framing, data and retrieval pip
 
 - Production LLM and RAG systems with grounded answers, citations, and evaluation loops.
 - AI agents that orchestrate tools, APIs, memory, escalation paths, and human-in-the-loop workflows.
+- Speech translation workflows that combine STT, typed translation, and TTS through LangGraph orchestration.
 - Ecommerce AI search, recommendation systems, and personalization.
 - MLOps and cloud-native AI delivery with FastAPI, Docker, Kubernetes, Airflow, MLflow, AWS, and GCP.
 - AI platform telemetry covering latency, token usage, cost, reliability, adoption, and quality feedback.
@@ -21,6 +22,7 @@ I work across the full AI delivery path: problem framing, data and retrieval pip
 | [ChainPilot AI](https://github.com/JoshOlam/chain-pilot-ai) | Internal AI platform for developer onboarding, reusable engineering agents, prompt registry, RAG architecture Q&A, and telemetry dashboards. | Next.js, FastAPI, LangChain, OpenAI, PostgreSQL, Redis, Qdrant, Prometheus, Grafana |
 | [AI-Powered Scientific Search Engine](https://github.com/JoshOlam/AI-Powered-Scientific-Search-Engine) | ArXiv/PubMed mining, chunking, embeddings, FAISS retrieval, complex-question decomposition, grounded synthesis, citations, tracing, and answer evaluation. | Python, FastAPI, LangChain, Hugging Face, FAISS, Docker |
 | [FDE Assessment: Sora Union](https://github.com/JoshOlam/FDE-Assessment-Sora-Union) | Customer support AI agent with intent handling, order lookup, refund processing, conversation memory, and human escalation. | Python, LangChain, OpenAI, tool calling |
+| [SpeechFlow AI](https://github.com/JoshOlam/speech-translation-ai) | Browser-based speech translation with microphone/file input, STT, typed translation, TTS output, and an explicit LangGraph pipeline. | Python, FastAPI, LangGraph, LangChain, STT, TTS |
 
 ## Repositories In Progress
 
